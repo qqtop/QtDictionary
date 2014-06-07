@@ -6,11 +6,17 @@
   
   Currently supporting :
   
-  KBBI     - Kamus Besar Bahasa Indonesia  
+  KBBI     - Kamus Besar Bahasa Indonesia
+    
   KATEGLO  - Indonesian English Dictionary
+  
   JDICT    - Japanese Dictionary  
+  
   WEBLIO   - Japanese Example Phrases
+  
   GLOSBE   - Multi Language Online Dictionary Project
+  
+  
   
   
   

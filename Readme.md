@@ -1,5 +1,5 @@
-      qcDC - Dictinary Lookup System
-    ==================================
+      qcDC - Dictionary Lookup System
+    ====================================
     
   
   
@@ -13,7 +13,7 @@
   GOSBE    - Multi Language Dictionary Project
   
   
-  ![Screenshot](https://github.com/qqtop/QtDictionary/screenshot.png "Weblio Output Example")
+  ![Screenshot](https://github.com/qqtop/QtDictionary/blob/master/screenshot.png "Weblio Output Example")
 
   Status : Always in development.
 

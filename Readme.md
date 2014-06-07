@@ -1,6 +1,5 @@
       
-      qcDC - Dictionary Lookup System
-      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~   
+  qtDC - Dictionary Lookup System
   
   
   

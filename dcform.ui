@@ -35,9 +35,9 @@
     <property name="geometry">
      <rect>
       <x>140</x>
-      <y>26</y>
+      <y>24</y>
       <width>651</width>
-      <height>27</height>
+      <height>21</height>
      </rect>
     </property>
     <property name="styleSheet">
@@ -109,10 +109,10 @@ background-color: rgb(0, 192, 0);</string>
    <widget class="QLabel" name="label_2">
     <property name="geometry">
      <rect>
-      <x>320</x>
-      <y>60</y>
-      <width>101</width>
-      <height>21</height>
+      <x>337</x>
+      <y>47</y>
+      <width>141</width>
+      <height>12</height>
      </rect>
     </property>
     <property name="font">
@@ -146,10 +146,10 @@ background-color: rgb(0, 192, 0);</string>
    <widget class="QComboBox" name="comboBox_2">
     <property name="geometry">
      <rect>
-      <x>430</x>
+      <x>340</x>
       <y>60</y>
-      <width>81</width>
-      <height>21</height>
+      <width>121</width>
+      <height>20</height>
      </rect>
     </property>
     <property name="styleSheet">

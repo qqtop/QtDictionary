@@ -511,6 +511,15 @@ class QPSQT4(QtGui.QDialog):
 	        
         else:
 	     self.ui.label_3.settext('')
+	
+	# to avoid usage if not needed we disable the comboBox_2
+	if self.ui.comboBox.currentText()<>'GLOSBE':
+	      self.ui.comboBox_2.setEnabled(False)
+	      
+        else:
+	     self.ui.comboBox_2.setEnabled(True)
+	     
+                   
     
     
     
@@ -560,7 +569,9 @@ class QPSQT4(QtGui.QDialog):
 
     def doGo(self):
       #pressing the go button we first see which dict is selected
-              
+      
+      
+     
       try:
         theWord=str(self.ui.textEdit.toPlainText())
       except:

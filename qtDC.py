@@ -39,8 +39,8 @@ from os import listdir
 from os.path import isfile, join
 
 # some init strings
-Version = '1.00 '
-VersionDate = '2014-06-06'
+Version = '1.05 '
+VersionDate = '2014-06-08'
 
 # set some paths
 scriptlocationpath = os.path.dirname(os.path.abspath(__file__))

@@ -28,4 +28,4 @@ Dictionary Lookup
 
   Status : Always in development.
 
-
+  Tested : Linux only

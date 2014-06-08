@@ -4,9 +4,8 @@ Dictionary Lookup
 ================= 
    
    
-Current build in support for:
------------------------------
-   
+  Current build in support for:
+ 
    
    
     

@@ -104,7 +104,7 @@ class Trayer(QSystemTrayIcon):
 
         QtGui.QMessageBox.information(QtGui.QWidget(), self.tr("About qtDC-" + Version + VersionDate),
                                       self.tr(mos + "\n" + mqt + "\n" + pqt + "\n" + '' + "\n"), self.tr(
-                "A Dicitionary LookUp System \n Glosbe,Kateglo,Kamus Besar KBBI,JDict && Weblio Data\n Google Translate\n\nAll data is for lookup purpose only \nand you should make yourself acquainted with \nlicenses on their respective websites \n\nThis program is freeware .Go Wild\n\nV " + Version + VersionDate))
+                "A Dicitionary LookUp System \n Glosbe,Kateglo,Kamus Besar KBBI,JDict && Weblio Data\n Google Translate\n\nAll data is for lookup purpose only \nand you should make yourself acquainted with \nlicenses on their respective websites \n\nThis program is licensed MIT .\n\nLicenses for data as per respective source:\n- 'http://kbbi.web.id\n- http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?\n- http://ejje.weblio.jp\n- http://kateglo.com\n- http://glosbe.com\n\nV " + Version + VersionDate))
 
     def showqtAbout(self):
         QApplication.aboutQt()

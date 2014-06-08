@@ -1,10 +1,11 @@
       
-    qtDC - Dictionary Lookup System
-    ===============================
+ QTDC - Dictionary Lookup System
+ ================================
   
   
   
-    Currently supporting :
+ Currently supporting :
+ ----------------------
     
     
   * KBBI     - Kamus Besar Bahasa Indonesia

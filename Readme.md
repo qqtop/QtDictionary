@@ -1,12 +1,14 @@
-      
- QTDC - Dictionary Lookup System
- ================================
-  
-  
-  
- Currently supporting :
- ----------------------
-    
+
+   
+   Dictionary Lookup
+   =================
+   
+   
+   
+   Current build in support for:
+   
+   
+   
     
   * KBBI     - Kamus Besar Bahasa Indonesia
     

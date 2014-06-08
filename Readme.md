@@ -1,12 +1,12 @@
       
-  qtDC - Dictionary Lookup System
-  ===============================
+    qtDC - Dictionary Lookup System
+    ===============================
   
   
   
-  Currently supporting :
-  ----------------------
-  
+    Currently supporting :
+    
+    
   * KBBI     - Kamus Besar Bahasa Indonesia
     
   * KATEGLO  - Indonesian English Dictionary
